@@ -58,6 +58,6 @@ The most challenging part of the coding experience was to apply the background '
 ## Author
 
 - Frontend Mentor - [@web3wizardess](https://www.frontendmentor.io/profile/web3wizardess)
-- Github - [@web3wizardess] (https://www.github.com/web3wizardess)
+- Github - [@web3wizardess](https://www.github.com/web3wizardess)
 - Website - [Coming soon...](https://www.web3wizardess.com)
 
