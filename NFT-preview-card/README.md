@@ -14,7 +14,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -53,12 +52,12 @@ The most challenging part of the coding experience was to apply the background '
 ### Useful resources
 
 - [tsbsankara YouTube ](https://www.youtube.com/watch?v=9bGbykdR4T8) - Watching someone else code the project after I completed mine helped me to find alternative ways of coding the project. 
-- [MrCoder YouTube](https://www.youtube.com/watch?v=l6sxh57ifSQ) - Another YouTuber who helped me see how another person would code it.
+- [MrCoder YouTube](https://www.youtube.com/watch?v=l6sxh57ifSQ) - Another YouTuber who helped me see how another person would code it live.
 
 
 ## Author
 
-- Frontend Mentor - [@web3wizardess](https://www.frontendmentor.io/profile/yourusername)
-- Github - [@web3wizardess]
+- Frontend Mentor - [@web3wizardess](https://www.frontendmentor.io/profile/web3wizardess)
+- Github - [@web3wizardess] (https://www.github.com/web3wizardess)
 - Website - [Coming soon...](https://www.web3wizardess.com)
 
