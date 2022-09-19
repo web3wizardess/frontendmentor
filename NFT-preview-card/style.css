@@ -35,6 +35,34 @@ body {
     box-shadow: 5px 5px 5px 5px hsl(218, 57%, 5%);
 }
 
+/* CODE LEARNT FROM @AdrianoEscarabote */
+
+.nft-image {
+    height: 320px;
+    width: 320px;
+    background: url("/images/image-equilibrium.jpg");
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.nft-image:hover {
+    box-shadow: 0 320px hsl(178, 100%, 50%, 45%) inset;
+}
+
+.eye-icon {
+    opacity: 0;
+}
+
+.nft-image:hover>.eye-icon {
+    opacity: 1;
+    transition: 0.3s;
+}
+
+/* CHANGED CODE
+
 .main-image {
     width: 100%;
     position: relative;
@@ -62,6 +90,8 @@ body {
 .overlay:hover {
    opacity: 1;
 }
+
+*/
 
 h1 {
     padding-top: 0.7rem;
