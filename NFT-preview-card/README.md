@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-with-basic-html-and-css-QfLphOb2Pn]
-- Live Site URL: [https://thunderous-cat-2f718e.netlify.app/]
+- Live Site URL: [https://w3w-nft-preview-card.netlify.app/]
 
 ## My process
 
