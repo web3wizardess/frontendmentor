@@ -24,11 +24,14 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+
 }
 
 .container {
     max-width: 350px;
     background-color: var(--card-bg);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     padding: 1.7rem;
     border-radius: 15px;
     box-shadow: 5px 5px 5px 5px hsl(218, 57%, 5%);
