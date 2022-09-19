@@ -19,27 +19,26 @@ body {
     font-family: "Outfit", sans-serif;
     font-size: 18px;
     background-color: var(--main-bg);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .container {
-    width: 375px;
-    height: 620px;
+    max-width: 350px;
     background-color: var(--card-bg);
     padding: 1.7rem;
     border-radius: 15px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    float: center;
     box-shadow: 5px 5px 5px 5px hsl(218, 57%, 5%);
 }
 
 /* CODE LEARNT FROM @AdrianoEscarabote */
 
 .nft-image {
-    height: 320px;
-    width: 320px;
+    height: 300px;
+    width: 300px;
     background: url("/images/image-equilibrium.jpg");
     background-size: 100%;
     display: flex;
