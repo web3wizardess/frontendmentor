@@ -121,7 +121,7 @@ p {
     color: var(--white);
     border-radius: 0.5rem;
     width: 100%;
-    margin-top: 1.6rem;
+    /*margin-top: 1.6rem;*/
     border: none;
     cursor: pointer;
     padding-top: 0.9rem;
@@ -156,7 +156,6 @@ p {
         grid-template-columns: 1fr;
         max-width: 350px;
         height: auto;
-        margin-top: 1rem;
     }
 
     .image-container img {
