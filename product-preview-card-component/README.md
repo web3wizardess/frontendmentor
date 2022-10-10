@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-using-css-grid-V8PJUDd5un]
 - Live Site URL: [https://product-preview-card-by-kate.netlify.app/]
 
 ## My process
