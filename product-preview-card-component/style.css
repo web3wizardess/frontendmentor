@@ -59,8 +59,7 @@ h2 {
     letter-spacing: 4px;
 }
  
-
-.text-container h1 {
+h1 {
     color: var(--dark-blue);
     font-family: "Fraunces", sans-serif;
     font-size: 2.2rem;
@@ -73,18 +72,18 @@ h2 {
     
 }
 
-.text-container p {
+p {
     font-family: "Montserrat", sans-serif;
     color: hsl(228, 12%, 48%, 90%);
     line-height: 1.5rem;
     font-size: 0.85rem;
     font-weight: 500;
+    letter-spacing: 0.2px;
     
 }
 
 .pricing {
     margin-top: 1.5rem;
-
 }
 
 
@@ -94,7 +93,7 @@ h2 {
     color: var(--dark-cyan);
     margin-right: 1rem;
     font-size: 2rem;
-    letter-spacing: 0.1px;
+    letter-spacing: 0.5px;
 }
 
 .pricing ul {
@@ -103,7 +102,6 @@ h2 {
 
 .pricing ul li {
     list-style: none;
-    
 }
 
 .pricing .discounted {
@@ -111,7 +109,7 @@ h2 {
     color: var(--dark-grayish-blue);
     font-family: "Montserrat", sans-serif;
     font-size: 0.8rem;
-    letter-spacing: 0.1px;
+    letter-spacing: 0.5px;
 }
 
 
@@ -175,10 +173,9 @@ h2 {
     h1 {
         margin-right: 0rem;
         margin-top: 0.7rem;
-        font-size: 2.1rem;
+        font-size: 2rem;
         line-height: 2rem;
-        letter-spacing: 2px;
-        
+        letter-spacing: 1px;
     }
 
     p {
@@ -187,6 +184,7 @@ h2 {
         font-size: 0.9rem;
         font-family: "Montserrat", sans-serif;
         color: hsl(228, 12%, 48%, 90%);
+        letter-spacing: 0.1px;
     }
 
     .button {
