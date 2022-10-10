@@ -191,6 +191,8 @@ p {
 
     .button {
         margin-top: 1rem;
+        padding-top: 0.9rem;
+        padding-bottom: 0.9rem;
     }
 
     .pricing {
@@ -200,4 +202,5 @@ p {
     .pricing .discounted {
         margin-top: 0.7rem;
     }
+
 }
