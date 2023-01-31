@@ -40,6 +40,21 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 I learned a new way to center the card container within the page using CSS Grid instead of Flexbox.
 
+I also learned the importance of layout and adding readable content for screen readers. 
+I found the solution to the acccessibility error from this site:
+https://www.w3schools.com/accessibility/accessibility_heading_levels.php
+
+I added a header above the main with an h1 and class of "sr-only". I then set the visibility off using the css code below.
+
+CSS class .sr-only that is only accessible for screen readers: 
+
+.sr-only { position: absolute; 
+          left: -10000px; 
+          top: auto; 
+          width: 1px; 
+          height: 1px; 
+          overflow: hidden; }
+
 
 ### Useful resources
 
