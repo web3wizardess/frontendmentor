@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/interative-rating-component-using-flexbox-and-javascript-I8wA2jVvZP]
 - Live Site URL: [https://interative-rating-component-by-kate.netlify.app/]
 
 ## My process
