@@ -39,9 +39,9 @@ body{
 .main-container{
     background-color: var(--very-pale-blue);
     border-radius: 1.5rem;
-    margin: 2.5rem 1rem 0rem 1rem;
+    margin: 0rem 1rem 0rem 1rem;
     padding-bottom: 1rem;
-    max-width: 320px;
+    max-width: 20rem;
 }
 
 .top-image{
@@ -50,12 +50,12 @@ body{
 }
 
 .text-container{
-    padding: 0 2rem 0 2rem;
+    padding: 0 1rem 0 1rem;
 }
 
 .title {
     font-size: 1.5rem;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     color: var(--dark-blue);
     font-family: 'Red Hat Display', sans-serif;
     letter-spacing: 0.02rem;
@@ -67,8 +67,8 @@ body{
     font-family: 'Red Hat Display', sans-serif;
     letter-spacing: 0.04rem;
     font-weight: 500;
-    margin-top: 1.5rem;
-    margin-bottom: 2.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
 }
 
 .plan-box{
@@ -113,7 +113,7 @@ body{
     background-color: var(--bright-blue);
     color: white;
     display:block;
-    margin: 2.5rem auto 1rem auto;
+    margin: 2rem auto 1rem auto;
     padding: 1rem;
     width: 100%;
     border: none;
